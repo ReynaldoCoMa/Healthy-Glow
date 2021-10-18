@@ -1,18 +1,18 @@
 # Proyecto Healthy Glow
 
 > ## Equipo
-Cruz Inzunza Luis Alejandro @Luis-Inzunza 
+Cruz Inzunza Luis Alejandro
 
-Carlos Genaro Cutz Anguas @GenaroCutzAnguas 
+Carlos Genaro Cutz Anguas
 
-Armando Canche Tíntore @ArmandoCanche 
+Armando Canche Tíntore 
 
-Leticia Tejero Gamboa @LeticiaTejeroGamboa2401 
+Leticia Tejero Gamboa 
 
-Reynaldo Cohuo Martin @ReynaldoCoMa 
+Reynaldo Cohuo Martin 
 
 > ## Objetivo
-En este proyecto nos enfocamos en ~~insitar~~ a universitarios a comenzar o retomar una vida mas saludable por medio de diferentes redes sociales, otorgandoles informacion valiosa para formar con mas facilidad este tipo de vida.
+En este proyecto nos enfocamos a motivar a universitarios a comenzar o retomar una vida más activa, realizando actividad física con ejercicios aeróbicos desde casa sin necesidad de herramientas específicos de ejercicio, otorgándoles información valiosa y verídica para lograr con más facilidad este tipo de vida.
 
 > ## Usuarios
 * Seran los Universitarios de la FMAT de la UADY de cualquier grado en el que se encuentren, que tengan una ausencia de importancia a la salud alimenticia y el ejercicio continuo en la vida academica.
