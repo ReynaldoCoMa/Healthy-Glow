@@ -15,14 +15,22 @@ Reynaldo Cohuo Martin
 En este proyecto nos enfocamos a motivar a universitarios a comenzar o retomar una vida más activa, realizando actividad física con ejercicios aeróbicos desde casa sin necesidad de herramientas específicos de ejercicio, otorgándoles información valiosa y verídica para lograr con más facilidad este tipo de vida.
 
 > ## Usuarios
-* Seran los Universitarios de la FMAT de la UADY de cualquier grado en el que se encuentren, que tengan una ausencia de importancia a la salud alimenticia y el ejercicio continuo en la vida academica.
+* Usuarios principales
 
-*Usuarios secundarios
-    *familia de los universitarios o gente cercana.
-    *Para universitarios de todo Mexico. 
+Universitarios de 1er semestre de la FMAT de la UADY
+
+* Usuarios potenciales
+
+Los Universitarios de la FMAT de la UADY de cualquier grado de licenciatura.
+
+* Usuarios Secundarios
+
+    * Amigos y familia de los universitarios.
+    * Para universitarios de todo México.
+
 
 > ## Primeros pasos
-Iniciamos un cuestionario a nuestro compañeros **universitarios** mediante un [forms de google](https://docs.google.com/forms/d/e/1FAIpQLSclARY71lZsVBsoMQEKyx9lgtu7nL6Svs0LmfPxBnMnsZrXYw/viewform?usp=sf_link "cuestionario") en el cual observaremos las respuestas obtenidas para llevar a cabo nuestro proyecto mediante la red social mas utilizada entre ellos.
+Iniciamos un cuestionario a nuestro compañeros **universitarios** mediante un [forms de google](https://docs.google.com/forms/d/e/1FAIpQLSehRhPRbhgOGkc7RpXI5bdoAA4xsfduAQZqHmwDG7JFds6ORg/viewform?usp=sf_link "cuestionario") en el cual observaremos las respuestas obtenidas para llevar a cabo nuestro proyecto mediante la red social mas utilizada entre ellos.
 
 >## Bitacora de reuniones
 Dentro de poco se registraran.
